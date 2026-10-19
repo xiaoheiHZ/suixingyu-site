@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-20T03:50:29+08:00",
+  "updated": "2026-10-20T04:26:27+08:00",
   "online": false,
   "latency": null,
   "players": {
     "online": 0,
-    "max": 0,
+    "max": 100,
     "list": []
   },
-  "motd": "",
-  "version": "",
+  "motd": "碎星屿 · 无规则生存 | 起床战争 | PvP",
+  "version": "26.2",
   "servers": [
     {
       "name": "登入服",
@@ -65,6 +65,7 @@
       "deaths": 1
     }
   ],
+  "note": "数据每 5 分钟自动刷新",
   "processes": [],
   "logs": [
     {
@@ -206,34 +207,32 @@
         "name": "X-512 / Z0",
         "x": -512,
         "z": 0,
-        "count": 6,
-        "pct": 42.9
+        "count": 4,
+        "pct": 40.0
       },
       {
         "name": "X0 / Z-512",
         "x": 0,
         "z": -512,
         "count": 4,
-        "pct": 28.6
+        "pct": 40.0
       },
       {
         "name": "X0 / Z0",
         "x": 0,
         "z": 0,
-        "count": 3,
-        "pct": 21.4
+        "count": 1,
+        "pct": 10.0
       },
       {
         "name": "X-512 / Z-512",
         "x": -512,
         "z": -512,
         "count": 1,
-        "pct": 7.1
+        "pct": 10.0
       }
     ],
     "points": [],
-    "total": 14
-  },
-  "note": "数据每 5 分钟自动刷新",
-  "error": "timed out"
+    "total": 10
+  }
 }
